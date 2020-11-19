@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quake Report</string>
+    <string name="near_the">Near The</string>
+    <string name="no_earthquake">No EarthQuake Found</string>
+    <string name="no_internate">No Internate Connection 🙄 </string>
+</resources>
